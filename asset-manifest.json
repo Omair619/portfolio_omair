@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio_omair/static/css/main.9e2e78a5.css",
+    "main.js": "/portfolio_omair/static/js/main.cf6f7626.js",
+    "static/js/453.62f45495.chunk.js": "/portfolio_omair/static/js/453.62f45495.chunk.js",
+    "static/media/bi.jpg": "/portfolio_omair/static/media/bi.9eca0da39d7263acf6ef.jpg",
+    "static/media/omair's cv (B).pdf": "/portfolio_omair/static/media/omair's cv (B).47cdda5c0e3fe0a6c565.pdf",
+    "static/media/bootstrap-logo.png": "/portfolio_omair/static/media/bootstrap-logo.cb1aa7ebab86974f5bb0.png",
+    "static/media/ge-pro-logo.png": "/portfolio_omair/static/media/ge-pro-logo.65accf47a44a0987675a.png",
+    "static/media/react-logo.png": "/portfolio_omair/static/media/react-logo.582cbc784710a3dbe704.png",
+    "static/media/snip2.JPG": "/portfolio_omair/static/media/snip2.8c95e15879a6bdd66766.JPG",
+    "static/media/ms-excel-logo.png": "/portfolio_omair/static/media/ms-excel-logo.833dac9ab1904a20f262.png",
+    "static/media/snip3.jpg": "/portfolio_omair/static/media/snip3.8bbb0aae83357968cef7.jpg",
+    "static/media/snip1.JPG": "/portfolio_omair/static/media/snip1.8c289013ab7667dece73.JPG",
+    "static/media/ms-word.png": "/portfolio_omair/static/media/ms-word.1c4e4d298d72d85527fb.png",
+    "static/media/ArcGIS-logo.png": "/portfolio_omair/static/media/ArcGIS-logo.401bce5944e7f2c30fe5.png",
+    "static/media/js-logo.png": "/portfolio_omair/static/media/js-logo.062825dbceed44567e91.png",
+    "static/media/ms-pp-logo.png": "/portfolio_omair/static/media/ms-pp-logo.a2f5e4cf6e65777bdc5e.png",
+    "static/media/css3-logo.png": "/portfolio_omair/static/media/css3-logo.603bcb730b4f65fab87c.png",
+    "index.html": "/portfolio_omair/index.html",
+    "main.9e2e78a5.css.map": "/portfolio_omair/static/css/main.9e2e78a5.css.map",
+    "main.cf6f7626.js.map": "/portfolio_omair/static/js/main.cf6f7626.js.map",
+    "453.62f45495.chunk.js.map": "/portfolio_omair/static/js/453.62f45495.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e2e78a5.css",
+    "static/js/main.cf6f7626.js"
+  ]
+}
